@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[94],{1094:function(t,u,e){e.r(u),e.d(u,{default:function(){return i}});var n=function(){var t=this;t._self._c;return t._m(0)},s=[function(){var t=this,u=t._self._c;return u("div",{staticClass:"about"},[u("h1",[t._v("Custom Dataset Tutorial page")])])}],a={},l=a,r=e(3736),c=(0,r.Z)(l,n,s,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=94.47468367.js.map

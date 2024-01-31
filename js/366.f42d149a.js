@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[366],{8366:function(t,u,n){n.r(u),n.d(u,{default:function(){return c}});var e=function(){var t=this;t._self._c;return t._m(0)},l=[function(){var t=this,u=t._self._c;return u("div",{staticClass:"about"},[u("h1",[t._v("Multi-modality Evaluation page")])])}],a={},s=a,i=n(3736),r=(0,i.Z)(s,e,l,!1,null,null,null),c=r.exports}}]);
-//# sourceMappingURL=366.f42d149a.js.map

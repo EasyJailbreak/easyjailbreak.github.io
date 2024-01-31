@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[235],{6235:function(t,e,n){n.r(e),n.d(e,{default:function(){return d}});var u=function(){var t=this,e=t._self._c;return e("div",{staticClass:"home"},[e("my-layout",{scopedSlots:t._u([{key:"main",fn:function(){return[e("h1",[t._v("MultiModalityView页面")])]},proxy:!0}])})],1)},o=[],a=n(3978),l={name:"MultiModality",components:{MyLayout:a["default"]},methods:{},created(){}},s=l,i=n(3736),c=(0,i.Z)(s,u,o,!1,null,"1dfcfd5a",null),d=c.exports}}]);
+//# sourceMappingURL=235.e0c8d65d.js.map

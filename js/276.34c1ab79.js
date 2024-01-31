@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[276],{6276:function(e,t,n){n.r(t),n.d(t,{default:function(){return r}});var u=function(){var e=this,t=e._self._c;return t("div",{staticClass:"home"},[t("my-layout",{scopedSlots:e._u([{key:"main",fn:function(){return[t("h1",[e._v("RecipeDetail2页面")])]},proxy:!0}])})],1)},o=[],a=n(3978),c={name:"RecipeDetail2",components:{MyLayout:a["default"]},methods:{},created(){}},s=c,l=n(3736),i=(0,l.Z)(s,u,o,!1,null,"7c6eb9e0",null),r=i.exports}}]);
+//# sourceMappingURL=276.34c1ab79.js.map

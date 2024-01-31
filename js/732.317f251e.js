@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[732],{8723:function(n,t,u){u.r(t),u.d(t,{default:function(){return o}});var e=function(){var n=this;n._self._c;return n._m(0)},s=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("Contributing to OpenCompass page")])])}],r={},l=r,a=u(3736),i=(0,a.Z)(l,e,s,!1,null,null,null),o=i.exports}}]);
+//# sourceMappingURL=732.317f251e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[519],{4519:function(t,n,u){u.r(n),u.d(n,{default:function(){return i}});var e=function(){var t=this;t._self._c;return t._m(0)},l=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("Metric Calculation page")])])}],r={},s=r,a=u(3736),c=(0,a.Z)(s,e,l,!1,null,null,null),i=c.exports}}]);
+//# sourceMappingURL=519.b290d71e.js.map

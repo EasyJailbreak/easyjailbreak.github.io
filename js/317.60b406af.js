@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkdemo"]=self["webpackChunkdemo"]||[]).push([[317],{1317:function(t,n,u){u.r(n),u.d(n,{default:function(){return c}});var e=function(){var t=this;t._self._c;return t._m(0)},l=[function(){var t=this,n=t._self._c;return n("div",{staticClass:"about"},[n("h1",[t._v("Evaluation with Lightllm page")])])}],s={},a=s,i=u(3736),r=(0,i.Z)(a,e,l,!1,null,null,null),c=r.exports}}]);
-//# sourceMappingURL=317.60b406af.js.map
